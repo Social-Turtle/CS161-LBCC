@@ -1,0 +1,28 @@
+Create a project that demonstrates each of the topics discussed in this week's materials.
+
+Be sure to include each of the following:
+
+Using lists, show how we can:
+create,
+add more data,
+change data in an element of the list,
+remove data,
+index the list to find some data stored within it,
+create a function that takes a list and accomplishes something similar to the built in functions (such as min, max, mean, sum, or comparison), but without using any built-in list methods,
+and use a couple of methods (or your own functions) on lists to accomplish some task
+(Note: yes, this can be tricky to decide on, perhaps collect a set of data and find some valuable information, such as a gradebook program that asks for some grades on some assignments and the weights for each assignment, and then finding their min, max, mean, and grade for the set of assignments)
+(Alternatively: you could create a small game using lists, functions, and list methods to accomplish some part of the game!)
+Use tuples in some of the tasks similar to the above, but make special note in your code when we cannot perform a task exactly the same due to differences in the way mutable and immutable objects tend to behave.
+(Note: Yes, this can also be tricky, I know that there are several ways that they are similar and several ways in which they are different!)
+Use both lists and tuples as arguments to functions that you create, showing how they behave similarly and differently from each other, remember that:
+parameters are local to the function definition,
+assignment operators change where a variable references (pointing to) memory (rather than altering the value at that variable's location in memory),
+copying lists can be tricky with shallow copies, but sometimes that is exactly what we want!
+(you do not have to demonstrate a deepcopy, a shallow copy is enough for this assignment),
+Show a simple list comprehension (maybe just a list of values that pass some conditional test), attempt to show a more complicated list comprehension.
+
+Take a screenshot showing how you completed each numbered item above (with likely duplicates for the tuples being used instead of lists)(some good screenshots might be able to display a few numbered items, just be sure to number the items being displayed), underline, highlight, or make an arrow point to the relevant item, and mention what the item is and a brief statement (maybe a sentence or two) explaining how that line of code meets the requirement listed.
+
+Note very well: The artifacts and explanations are as important in these later projects as the code itself!
+
+(this gives us practice not only coming up with clever or creative solutions to problem statements from instructors, it also gives us practice explaining code or implementation details to another person; because it is likely that if we cannot explain how to achieve some result, then we do not fully understand how to get that result)

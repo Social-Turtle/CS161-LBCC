@@ -1,0 +1,3 @@
+#A sanbox to learn about dictionaries, sets, and their comprehensions
+#Programmed by Caleb Matthews
+#Instructed by Professor Joseph Jess
